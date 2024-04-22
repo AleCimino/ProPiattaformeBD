@@ -1,10 +1,10 @@
-# Google Playstore
+# DataSet Google Playstore
 
 Il DataSet utilizzato può essere consultato e/o scaricato al seguente link
 https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
 
 # Linux
-Per l'utilizzo sul sistema operativo Linux, effettuare i seguenti passi, una volta scaricato il DataSet:
+Per l'utilizzo sul sistema operativo Linux, una volta scaricato il DataSet, è necessario:
   ## 1. Installazione di Python
   ```
     $ sudo apt-get update
@@ -21,7 +21,7 @@ Per l'utilizzo sul sistema operativo Linux, effettuare i seguenti passi, una vol
     $ pip install inquirer
   ```
 
-## Cloud
+# Cloud
 
 1. **Creazione del Cluster**
    
