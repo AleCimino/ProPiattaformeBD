@@ -1,0 +1,29 @@
+TOP_1
+top_1 local linux -> 55.56
+top_1 cloud Console-> 38
+top_1 cloud Cluster’s Master Node --> 22
+top_1 cloud --num-executors 2 --executive-cores 4 --> 23
+top_1 cloud --num-executors 4 --executive-cores 4 --> 27
+
+TOP_7
+top_7 local linux -> 27
+top_7 cloud Console-> 37
+top_7 cloud Cluster’s Master Node --> 28
+top_7 cloud --num-executors 2 --executive-cores 4 --> 26
+top_7 cloud --num-executors 4 --executive-cores 4 --> 31
+
+APP_1
+app_1 local linux -> 36.4
+app_1 cloud Console-> 40
+app_1 cloud Cluster’s Master Node --> 32
+app_1 cloud --num-executors 2 --executive-cores 4 --> 28
+app_1 cloud --num-executors 4 --executive-cores 4 --> 32
+
+APP_4
+app_4 local linux -> 31.4
+app_4 cloud Console-> 41
+app_4 cloud Cluster’s Master Node --> 31
+app_4 cloud --num-executors 2 --executive-cores 4 --> 27
+app_4 cloud --num-executors 4 --executive-cores 4 --> 31
+
+
